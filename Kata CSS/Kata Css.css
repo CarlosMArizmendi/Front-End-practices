@@ -1,0 +1,35 @@
+.Subtitles{
+    display: flex;
+    justify-content: space-around;   
+}
+h2{
+    display: flex;
+    margin-top: 26px;
+}
+#Uno{
+    display: flex;
+}
+.item1{
+    float: left;
+    margin: 1em;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.biggerFont{
+    font-size: 80px;
+}
+.biggerFont2{
+    font-size: 25px;
+}
+.margin1{
+    margin-left: 50px;
+}
+.grayFont{
+    color: gray;
+}
+body{
+   
+}
